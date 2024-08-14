@@ -9,7 +9,8 @@
 ## Information
 
 ### 1. GUI Design
-![GUI Design](link_to_your_gui_image)
+![GUI Design](![Screenshot 2024-08-14 200548](https://github.com/user-attachments/assets/d198fc63-2b9c-46b7-8fa5-2ef43023eb3e)
+)
 
 ### 2. Database Design
 ![Database Design](link_to_your_database_image)
