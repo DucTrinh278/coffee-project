@@ -9,11 +9,11 @@
 ## Information
 
 ### 1. GUI Design
-- ![GUI Design 1](![Screenshot 2024-08-14 200548](https://github.com/user-attachments/assets/0ab2e30d-3376-4577-8509-b17003eeb3b3))
+- ![Screenshot 2024-08-14 200548](https://github.com/user-attachments/assets/0ab2e30d-3376-4577-8509-b17003eeb3b3)
 
-- ![GUI Design 2](![Screenshot 2024-08-14 200608](https://github.com/user-attachments/assets/9f560c05-6044-4996-928f-902705417e74))
+- ![Screenshot 2024-08-14 200608](https://github.com/user-attachments/assets/9f560c05-6044-4996-928f-902705417e74)
 
-- ![GUI Design 3](![Screenshot 2024-08-14 200633](https://github.com/user-attachments/assets/b2f9984b-6170-4d18-b0be-91c54cafcc41))
+- ![Screenshot 2024-08-14 200633](https://github.com/user-attachments/assets/b2f9984b-6170-4d18-b0be-91c54cafcc41)
 
 
 ### 2. Database Design
