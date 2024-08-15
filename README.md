@@ -17,7 +17,7 @@
 
 
 ### 2. Database Design
-![Database Design](![Screenshot 2024-08-15 001455](https://github.com/user-attachments/assets/64f36705-a0ca-4bce-b57a-47c8d11bf857))
+![Screenshot 2024-08-15 001455](https://github.com/user-attachments/assets/64f36705-a0ca-4bce-b57a-47c8d11bf857)
 
 
 
